@@ -12,7 +12,7 @@ This is a tribute page dedicated to one of the greatest physicists of all time, 
 ## Tech Stack
 - **HTML**: For structuring the webpage.
 - **CSS**: For styling and layout.
-- **JavaScript**: For any interactive features (optional).
+- **JavaScript**: For any interactive features.
 
 ## Installation
 To view the tribute page locally, follow these steps:
